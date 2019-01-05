@@ -47,7 +47,7 @@ ctx.stroke();
 
 function dots(){
     for(lineNo=1;lineNo<100;lineNo++){
-    let dotSpacing = 80;
+    let dotSpacing = 160;
     let dotColorBottom = '#000000';
     let dotColorTop = '#FFFFFA';
         for(lineNoVert=1;lineNoVert<70;lineNoVert++){
